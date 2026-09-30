@@ -378,7 +378,7 @@ function App() {
           <div className="hero-content">
 
             <p className="eyebrow">
-              JUNIOR DEVOPS ENGINEER
+              Software Developer Associate
             </p>
 
             <h1>
@@ -389,7 +389,7 @@ function App() {
 
             <p className="hero-description">
               I'm Naja Fathima P.T., a Computer Science graduate
-              with hands-on experience in Python, SQL, REST API, AWS, Linux administration,
+              with hands-on experience in Python, Go, SQL, REST API, AWS, Linux administration,
               infrastructure automation, CI/CD and container
               orchestration.
             </p>
@@ -438,10 +438,11 @@ function App() {
 naja-fathima
 
 $ focus
-aws • linux • devops • python
+aws • linux • devops • python • Go
 
 $ toolkit
 python
+go
 sql
 terraform
 ansible
@@ -483,9 +484,11 @@ ready_to_build`}
           <div className="about-content">
 
             <p>
-              I'm a BSc Computer Science graduate with a
-              CGPA of 7.3, focused on Python, cloud infrastructure
-              and DevOps engineering.
+              I am a B.Sc Computer Science graduate with a CGPA of 7.3, currently working as an Software Developer Associate with a strong interest in software development, Cloud Computing, and DevOps.
+            </p>
+
+            <p>
+              In my current role, I am gaining practical experience in software development, problem-solving, debugging, and building reliable applications while working in a professional development environment.
             </p>
 
             <p>
