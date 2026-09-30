@@ -862,8 +862,7 @@ Software Developer Associate`}
           </h2>
 
           <p className="contact-description">
-            I'm open to junior DevOps, cloud and
-            Python opportunities.
+            I'm open to opportunities in software development, Python, cloud, and DevOps. Feel free to get in touch.
           </p>
 
 
