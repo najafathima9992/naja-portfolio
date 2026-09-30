@@ -42,6 +42,12 @@ const skills =[
 
     },
     {
+        name: "Go",
+        icon: Terminal,
+        description:
+            "Go programming, functions, method, pointer, error handling and backend development."
+    },
+    {
         name: "Django",
         icon: Server,
         description:
