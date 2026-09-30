@@ -688,7 +688,8 @@ ready_to_build`}
 
         {/* ================= EXPERIENCE ================= */}
 
-        <section
+
+                <section
           id="experience"
           className="section split-section experience-section"
         >
@@ -697,6 +698,79 @@ ready_to_build`}
 
             <p className="eyebrow">
               04 / EXPERIENCE
+            </p>
+
+            <h2>
+              Software Developer
+              <br />
+              Associate.
+            </h2>
+
+          </div>
+
+
+          <div>
+
+            <div className="role-header">
+
+              <div>
+
+                <h3>
+                  NINEANCHOR LABS LLP
+                </h3>
+
+                <span>
+                  Kozhikkode, Kerala
+                </span>
+
+              </div>
+
+
+              <strong>
+                2026 — Present
+              </strong>
+
+            </div>
+
+
+            <ul className="experience-list">
+
+              <li>
+                Contributing to the development and enhancement of software applications.
+              </li>
+
+              <li>
+                Implementing project requirements and developing new application features.
+              </li>
+
+              <li>
+               Working with APIs, databases, and application components.
+              </li>
+
+              <li>
+               Troubleshooting, debugging, testing, and improving application functionality.
+              </li>
+
+              <li>
+                Using Git, GitHub, and Jira for version control, task tracking, and team collaboration.
+              </li>
+
+            </ul>
+
+          </div>
+
+        </section>
+
+
+        <section
+          id="experience"
+          className="section split-section experience-section"
+        >
+
+          <div>
+
+            <p className="eyebrow">
+              05 / EXPERIENCE
             </p>
 
             <h2>
@@ -778,7 +852,7 @@ ready_to_build`}
         >
 
           <p className="eyebrow">
-            05 / CONTACT
+            06 / CONTACT
           </p>
 
           <h2>
